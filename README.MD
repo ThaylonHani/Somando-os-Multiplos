@@ -1,0 +1,1 @@
+nesse repositório tem uma função que serve para pegar números que são múltiplos de 3 e de 5 depois somar eles, mostrando o resultado.
